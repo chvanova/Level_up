@@ -4,8 +4,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>ru.level_up.task4</groupId>
-    <artifactId>ru.level_up.task4</artifactId>
+    <groupId>ru.level_up</groupId>
+    <artifactId>ru.level_up.home_works</artifactId>
     <version>1.0-SNAPSHOT</version>
 
 
