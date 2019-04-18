@@ -9,4 +9,20 @@
     <version>1.0-SNAPSHOT</version>
 
 
+    <!-- TODO пивести репозиторий впорядок!!! -->
+    <!-- TODO должна быть структура
+            project.base
+              -- src
+                 -- main
+                    -- java
+                    -- resources
+                 -- test
+                    -- java
+                    -- resources
+            pom.xml
+            .gitignore
+
+        TODO Не должно быть в репозитории мусора ввиде target, .idea и iml файлов
+    -->
+
 </project>
