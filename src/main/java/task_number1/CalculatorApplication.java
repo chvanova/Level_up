@@ -1,4 +1,4 @@
-package ru.levelup.firstname.lastname.qa.homework_number.task_number1;
+package task_number1;
 
 public class CalculatorApplication {
 
