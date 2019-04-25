@@ -1,4 +1,5 @@
-package ru.levelup.firstname.lastname.qa.homework_number.task_number2;
+package task_number2;
+
 
 abstract class PublicTransport implements Transport{
 

@@ -1,4 +1,4 @@
-package ru.levelup.firstname.lastname.qa.homework_number.task_number2;
+package task_number2;
 
 public class MiniBus extends PublicTransport {
     private boolean requestStop;
